@@ -1,5 +1,5 @@
 # Pancakeswap Price Script Python3
-![TradingTigers](https://trading-tigers.com/logos/TradingTigers.png)  
+![sBTX ](https://s2.coinmarketcap.com/static/img/coins/64x64/1654.png)
 
 This is a very Python Script to get a Price from a Token.
 
