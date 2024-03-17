@@ -7,7 +7,7 @@ This tool can be customized by you to your liking.
 
 ## Install:
 ```shell 
-git clone github.com/dArkjON/Pancakeswap-Token-Price-Python3
+git clone https://github.com/dArkjON/Pancakeswap-Token-Price-Python3.git
 cd Pancakeswap-Token-Price-Python3
 python3 -m pip install -r requirements.txt
 ```
